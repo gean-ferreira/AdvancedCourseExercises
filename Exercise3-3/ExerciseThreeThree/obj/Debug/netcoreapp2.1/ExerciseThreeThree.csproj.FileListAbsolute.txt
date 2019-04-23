@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseThreeThree/bin/Debug/netcoreapp2.1/ExerciseThreeThree.deps.json
+/Users/geanroberto/Exercise/ExerciseThreeThree/bin/Debug/netcoreapp2.1/ExerciseThreeThree.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseThreeThree/bin/Debug/netcoreapp2.1/ExerciseThreeThree.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseThreeThree/bin/Debug/netcoreapp2.1/ExerciseThreeThree.dll
+/Users/geanroberto/Exercise/ExerciseThreeThree/bin/Debug/netcoreapp2.1/ExerciseThreeThree.pdb
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.dll
+/Users/geanroberto/Exercise/ExerciseThreeThree/obj/Debug/netcoreapp2.1/ExerciseThreeThree.pdb

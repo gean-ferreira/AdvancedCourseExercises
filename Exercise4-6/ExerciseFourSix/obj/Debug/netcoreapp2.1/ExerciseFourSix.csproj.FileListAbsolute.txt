@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseFourSix/bin/Debug/netcoreapp2.1/ExerciseFourSix.deps.json
+/Users/geanroberto/Exercise/ExerciseFourSix/bin/Debug/netcoreapp2.1/ExerciseFourSix.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseFourSix/bin/Debug/netcoreapp2.1/ExerciseFourSix.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseFourSix/bin/Debug/netcoreapp2.1/ExerciseFourSix.dll
+/Users/geanroberto/Exercise/ExerciseFourSix/bin/Debug/netcoreapp2.1/ExerciseFourSix.pdb
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.dll
+/Users/geanroberto/Exercise/ExerciseFourSix/obj/Debug/netcoreapp2.1/ExerciseFourSix.pdb

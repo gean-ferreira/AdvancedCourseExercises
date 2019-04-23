@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseOneFour/bin/Debug/netcoreapp2.1/ExerciseOneFour.deps.json
+/Users/geanroberto/Exercise/ExerciseOneFour/bin/Debug/netcoreapp2.1/ExerciseOneFour.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseOneFour/bin/Debug/netcoreapp2.1/ExerciseOneFour.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseOneFour/bin/Debug/netcoreapp2.1/ExerciseOneFour.dll
+/Users/geanroberto/Exercise/ExerciseOneFour/bin/Debug/netcoreapp2.1/ExerciseOneFour.pdb
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.dll
+/Users/geanroberto/Exercise/ExerciseOneFour/obj/Debug/netcoreapp2.1/ExerciseOneFour.pdb

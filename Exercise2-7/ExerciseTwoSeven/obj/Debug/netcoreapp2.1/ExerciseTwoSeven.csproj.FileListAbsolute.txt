@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseTwoSeven/bin/Debug/netcoreapp2.1/ExerciseTwoSeven.deps.json
+/Users/geanroberto/Exercise/ExerciseTwoSeven/bin/Debug/netcoreapp2.1/ExerciseTwoSeven.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseTwoSeven/bin/Debug/netcoreapp2.1/ExerciseTwoSeven.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseTwoSeven/bin/Debug/netcoreapp2.1/ExerciseTwoSeven.dll
+/Users/geanroberto/Exercise/ExerciseTwoSeven/bin/Debug/netcoreapp2.1/ExerciseTwoSeven.pdb
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.dll
+/Users/geanroberto/Exercise/ExerciseTwoSeven/obj/Debug/netcoreapp2.1/ExerciseTwoSeven.pdb

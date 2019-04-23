@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseFourTwo/bin/Debug/netcoreapp2.1/ExerciseFourTwo.deps.json
+/Users/geanroberto/Exercise/ExerciseFourTwo/bin/Debug/netcoreapp2.1/ExerciseFourTwo.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseFourTwo/bin/Debug/netcoreapp2.1/ExerciseFourTwo.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseFourTwo/bin/Debug/netcoreapp2.1/ExerciseFourTwo.dll
+/Users/geanroberto/Exercise/ExerciseFourTwo/bin/Debug/netcoreapp2.1/ExerciseFourTwo.pdb
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.dll
+/Users/geanroberto/Exercise/ExerciseFourTwo/obj/Debug/netcoreapp2.1/ExerciseFourTwo.pdb

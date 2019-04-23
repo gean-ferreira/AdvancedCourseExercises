@@ -1,0 +1,5 @@
+/Users/geanroberto/Projects/CursoAvancado/Exercise1-6/bin/Debug/Exercise1-6.exe
+/Users/geanroberto/Projects/CursoAvancado/Exercise1-6/bin/Debug/Exercise1-6.pdb
+/Users/geanroberto/Projects/CursoAvancado/Exercise1-6/obj/x86/Debug/Exercise1-6.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Projects/CursoAvancado/Exercise1-6/obj/x86/Debug/Exercise1-6.exe
+/Users/geanroberto/Projects/CursoAvancado/Exercise1-6/obj/x86/Debug/Exercise1-6.pdb

@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercise/ExerciseTwoEight/bin/Debug/netcoreapp2.1/ExerciseTwoEight.deps.json
+/Users/geanroberto/Exercise/ExerciseTwoEight/bin/Debug/netcoreapp2.1/ExerciseTwoEight.runtimeconfig.json
+/Users/geanroberto/Exercise/ExerciseTwoEight/bin/Debug/netcoreapp2.1/ExerciseTwoEight.runtimeconfig.dev.json
+/Users/geanroberto/Exercise/ExerciseTwoEight/bin/Debug/netcoreapp2.1/ExerciseTwoEight.dll
+/Users/geanroberto/Exercise/ExerciseTwoEight/bin/Debug/netcoreapp2.1/ExerciseTwoEight.pdb
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.csprojAssemblyReference.cache
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.AssemblyInfo.cs
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.dll
+/Users/geanroberto/Exercise/ExerciseTwoEight/obj/Debug/netcoreapp2.1/ExerciseTwoEight.pdb
