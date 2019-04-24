@@ -1,0 +1,11 @@
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/bin/Debug/netcoreapp2.1/ExerciseFiveOne.deps.json
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/bin/Debug/netcoreapp2.1/ExerciseFiveOne.runtimeconfig.json
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/bin/Debug/netcoreapp2.1/ExerciseFiveOne.runtimeconfig.dev.json
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/bin/Debug/netcoreapp2.1/ExerciseFiveOne.dll
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/bin/Debug/netcoreapp2.1/ExerciseFiveOne.pdb
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.csprojAssemblyReference.cache
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.csproj.CoreCompileInputs.cache
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.AssemblyInfoInputs.cache
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.AssemblyInfo.cs
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.dll
+/Users/geanroberto/Exercises/Exercise5-1/ExerciseFiveOne/obj/Debug/netcoreapp2.1/ExerciseFiveOne.pdb

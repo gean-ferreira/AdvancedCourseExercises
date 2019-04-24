@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseFiveTwo", "ExerciseFiveTwo.csproj", "{77705F2F-7E44-4A3D-8DEC-1FF824CC1C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77705F2F-7E44-4A3D-8DEC-1FF824CC1C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77705F2F-7E44-4A3D-8DEC-1FF824CC1C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77705F2F-7E44-4A3D-8DEC-1FF824CC1C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77705F2F-7E44-4A3D-8DEC-1FF824CC1C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
